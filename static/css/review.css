@@ -1,0 +1,12 @@
+.preview {
+    width: 150px;
+    height: auto;
+}
+.margin-left {
+    margin-left: 100px;
+}
+
+.errorlist li {
+    list-style: none;
+    color: red;
+}
